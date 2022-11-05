@@ -2,3 +2,5 @@ notebook
 torch 
 torchvision 
 torchaudio
+pyYAML
+opencv-python
