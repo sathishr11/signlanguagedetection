@@ -1,5 +1,0 @@
-train: /config/workspace/data/Sign_language_data/train/images
-val: /config/workspace/data/Sign_language_data/test/images
-
-nc: 6
-names: ['Hello', 'IloveYou', 'No', 'Please', 'Thanks', 'Yes']
